@@ -48,7 +48,7 @@ Wait, "NGR-Nexus" is just one part of my story. As an engineering student, my cu
 
 ## 🛠️ Technical Skillset
 
-- **Languages**: Python, MicroPython, Scratch
+- **Languages**: Python, MicroPython, HTML, Scratch
 - **Robotics**: Control Theory fundamentals, Sensor Integration
 - **Hardware**: Raspberry Pi Pico, Breadboarding, Multimeters
 - **Software**: Git/GitHub, VS Code, Thonny IDE
@@ -68,8 +68,9 @@ Wait, "NGR-Nexus" is just one part of my story. As an engineering student, my cu
 I am always looking to improve my engineering skills and welcome constructive feedback! 
 
 If you have questions about my projects or want to discuss Robotics and Control Engineering:
-1.  **GitHub Discussions**: I’ve enabled the Discussions tab for general questions and community interaction.
-2.  **Issues**: If you find a specific error in my documentation, please open an Issue.
+
+1. **GitHub Discussions**: I’ve enabled the Discussions tab for general questions and community interaction.
+2. **Issues**: If you find a specific error in my documentation, please open an Issue.
 
 ---
 
