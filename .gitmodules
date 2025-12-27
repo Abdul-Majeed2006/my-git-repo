@@ -1,0 +1,12 @@
+[submodule "python-foundations"]
+	path = python-foundations
+	url = https://github.com/Abdul-Majeed2006/Python_Basics
+[submodule "pygame-masterclass"]
+	path = pygame-masterclass
+	url = https://github.com/Abdul-Majeed2006/intro_to_pygame
+[submodule "raspberry-pi-pico"]
+	path = raspberry-pi-pico
+	url = https://github.com/Abdul-Majeed2006/Raspberry_Pi
+[submodule "physics-simulations"]
+	path = physics-simulations
+	url = https://github.com/Abdul-Majeed2006/Final_project
