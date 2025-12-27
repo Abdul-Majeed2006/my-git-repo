@@ -63,6 +63,16 @@ Wait, "NGR-Nexus" is just one part of my story. As an engineering student, my cu
 
 ---
 
+## 💬 Feedback & Discussions
+
+I am always looking to improve my engineering skills and welcome constructive feedback! 
+
+If you have questions about my projects or want to discuss Robotics and Control Engineering:
+1.  **GitHub Discussions**: I’ve enabled the Discussions tab for general questions and community interaction.
+2.  **Issues**: If you find a specific error in my documentation, please open an Issue.
+
+---
+
 ## 🛡️ Legal & Privacy
 
 This repository contains **Proprietary Work**. 
