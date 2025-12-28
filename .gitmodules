@@ -10,3 +10,9 @@
 [submodule "physics-simulations"]
 	path = physics-simulations
 	url = https://github.com/Abdul-Majeed2006/Final_project
+[submodule "sensor-lab"]
+	path = sensor-lab
+	url = https://github.com/Abdul-Majeed2006/Raspberry_Pi_Sensors_37
+[submodule "web-development"]
+	path = web-development
+	url = https://github.com/Abdul-Majeed2006/Learning_HTML
