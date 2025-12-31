@@ -8,7 +8,7 @@ Welcome to my central development hub. This repository serves as a **Unified Eng
 
 ## 👨‍💻 About Me
 
-Born into a dedicated Air Force family (Air Commodore and Mrs. Hafsat Zakari) in Plateau State, Nigeria, my life has been a series of disciplined moves and intellectual explorations across the country—from Jos and Abuja to Enugu, Osun, and Uyo. 
+Born into a dedicated Air Force family in Plateau State, Nigeria, my life has been a series of disciplined moves and intellectual explorations across the country—from Jos and Abuja to Enugu, Osun, and Uyo. 
 
 I’ve always been obsessed with **building stuff**. Whether it was my "B Class" Science and Technical education in Uyo or my brief time studying Electrical and Electronics Engineering at AFIT, my path has always pointed toward one goal: **Mastering the intersections of Lead, Design, and Technology.**
 
