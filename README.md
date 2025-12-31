@@ -20,12 +20,12 @@ This repository uses **Git Submodules** to unify my specialized projects. Each f
 
 | Project Module | Description | Key Technologies |
 | :--- | :--- | :--- |
-| 🐍 **[Python Foundations](./python-foundations)** | Core logic, algorithms, and automated testing fundamentals. | Python, Unit Testing |
-| 🎮 **[Pygame Masterclass](./pygame-masterclass)** | Interactive graphical applications and game engine logic. | Pygame, OOP |
-| 📟 **[Raspberry Pi Pico](./raspberry-pi-pico)** | Physical computing, sensor integration, and real-time control. | MicroPython, Hardware |
-| 🔌 **[Sensor Lab](./sensor-lab)** | Comprehensive testing of 37+ sensor modules. | Electronics, Driver Dev |
-| 🌐 **[Web Development](./web-development)** | Structuring modern web content from scratch. | HTML, Web Standards |
-| 🚀 **[Physics Simulations](./physics-simulations)** | High-fidelity simulations including missile guidance and radar systems. | Numerical Methods, Physics |
+| 🐍 **[Python Foundations](./python-foundations)** | 14-lesson curriculum from variables to project architecture with professional notebooks and automated testing. | Python, pytest, Type Hints |
+| 🎮 **[Pygame Masterclass](./pygame-masterclass)** | Engineering-first game development: OOP sprites, state machines, and deterministic loops. Capstone: Space Salvage. | Pygame, Design Patterns |
+| 📟 **[Raspberry Pi Pico](./raspberry-pi-pico)** | 8-phase physical computing mastery: Digital I/O, Motion Control, OLED UI, and Networking. Capstone: Mars Rover. | MicroPython, I2C, PWM |
+| 🔌 **[Sensor Lab](./sensor-lab)** | 37-sensor masterclass with 6 progressive phases and capstone projects (Weather Station, Robot Brain, Omni-Sentry). | Electronics, ADC, Drivers |
+| 🌐 **[Web Development](./web-development)** | 6-phase HTML curriculum: semantic markup, accessibility, SEO, and deployment to production. | HTML5, A11y, GitHub Pages |
+| 🚀 **[Physics Simulations](./physics-simulations)** | "Desert Strike" - Top-down arena shooter with focus mode, dash mechanics, and persistent high scores. | Pygame, Game Physics |
 
 ---
 
