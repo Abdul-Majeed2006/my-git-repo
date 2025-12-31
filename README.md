@@ -23,6 +23,8 @@ This repository uses **Git Submodules** to unify my specialized projects. Each f
 | 🐍 **[Python Foundations](./python-foundations)** | Core logic, algorithms, and automated testing fundamentals. | Python, Unit Testing |
 | 🎮 **[Pygame Masterclass](./pygame-masterclass)** | Interactive graphical applications and game engine logic. | Pygame, OOP |
 | 📟 **[Raspberry Pi Pico](./raspberry-pi-pico)** | Physical computing, sensor integration, and real-time control. | MicroPython, Hardware |
+| 🔌 **[Sensor Lab](./sensor-lab)** | Comprehensive testing of 37+ sensor modules. | Electronics, Driver Dev |
+| 🌐 **[Web Development](./web-development)** | Structuring modern web content from scratch. | HTML, Web Standards |
 | 🚀 **[Physics Simulations](./physics-simulations)** | High-fidelity simulations including missile guidance and radar systems. | Numerical Methods, Physics |
 
 ---
